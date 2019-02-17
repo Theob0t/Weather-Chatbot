@@ -1,4 +1,4 @@
-# Weather-Chatbot
+# Weather-Chatbot :speech_balloon:
 Weather Chatbot in NodeJS
 
 Clone repository and run app.js in your cmd.
@@ -22,6 +22,7 @@ Output:
 
 <br>
 
+![Screenshot](Capture.JPG)
 
 ## Build Status
 Functional
